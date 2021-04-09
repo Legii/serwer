@@ -1,0 +1,19 @@
+/*tu nic dla ciebie nie ma*/
+
+header,nav > span,nav,nav >div {
+    padding:0px !important;
+    margin:0px !important;         
+}
+
+nav {
+ background-color:var(--navbarBgColor); 
+ padding:1%;
+}
+
+.container, .articles {
+ margin-top:1.5%;
+}
+
+h3 {
+ font-size:1.5rem;
+}
