@@ -17,3 +17,16 @@ nav {
 h3 {
  font-size:1.5rem;
 }
+
+.stats h2 {
+    font-size:7vh;
+}
+.stats h3 {
+    font-size:5vh;
+    font-weight: bolder;
+}
+.stats {
+    margin-top:1%;
+ border-top: dashed gray;
+ border-bottom: dashed gray;
+}
